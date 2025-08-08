@@ -3,7 +3,7 @@
 #### 后台地址 `没有没有没有,需查询` 详见下文
 #### 用户名 `root` 密码：password
 #### 是否带docker: 根据用户选择
-#### 默认软件包大小 1GB
+#### 默认软件包大小 2GB
 #### 内核版本:根据用户选择
 #### 晶晨宝盒：✅ 自带 用于写入emmc 写入的时候务必关闭docker 和docker自启动 （这一步等以后稳定再考虑写入 非必要不写入）
 #### rootfs.tar.gz 构建采用ImmortalWrt的ImageBuilder
